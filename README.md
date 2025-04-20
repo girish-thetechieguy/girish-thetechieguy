@@ -2,6 +2,11 @@
 🔭 I’m working on production-ready End 2 End projects. <br>1. Develop the online stock market simulator to BUY/SELL stocks and futures/options from the platform <br>2. Post-Trade Settlement & Reconciliation System <br>3. Portfolio Risk Analyzer <br>4. Advisor-Client Collaboration Platform <br>5. Creating a web platform with WEB3 technologies for enterprise crypto company <br>6. Creating low-latency applications to complete the banking platform <br>7. Developing various payment modules to integrate payment with integrate with international payment service providers (VISA/AMEX/MASTER/Octopus)
 <br>8. AI chatbot which auto replies to your WhatsApp queries <br><br>👯 I’m looking to collaborate on<br>Green Cloud Initiatives: Projects that reduce carbon footprints in cloud infrastructure through serverless architectures and energy-efficient scaling.<br>DevSecOps Pipelines: Integrating AI-powered code scanning (SonarQube + OpenAI) to preempt vulnerabilities in CI/CD workflows.<br><br>🌱 I’m currently learning<br>WebAssembly (Wasm): For high-performance, cross-platform microservices.<br>FinOps Principles: To bridge cloud financial management with engineering decisions.<br><br>💬 Ask me about<be> How to slash technical debt in legacy Java systems while migrating to the cloud.<br>War stories from troubleshooting 3 AM production outages in global SaaS platforms.<br><br>⚡ Fun fact<br>Writing code and solving people's problems(ANY) is my most entertaining/relaxing fun excesise. <br>I love Technical and intellectual talks. 
 
+Daily Add-on Exercises: 
+One Design pattern per day (Daily) 🤜🤛
+One real-world design puzzle  (Daily)  👀
+Clone big giant company websites (Weekly) 🫶
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:girish.thetechieguy@gmail.com) 
